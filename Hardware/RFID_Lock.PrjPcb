@@ -83,10 +83,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KWFODLVH
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for RFID_Lock\Design Rule Check - RFIDLockPCB.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
